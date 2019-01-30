@@ -31,3 +31,8 @@ It also works on portrait and landscape and have a costum transition animation b
 
 ### Screenshots
 
+<img src="Screenshots/Screen%20Shot%202019-01-30%20at%2019.26.20.png" data-canonical-src="Screenshots/Screen%20Shot%202019-01-30%20at%2019.26.20.png" width="200" height="400" />
+<img src="Screenshots/Screen%20Shot%202019-01-30%20at%2019.27.05.png" data-canonical-src="Screenshots/Screen%20Shot%202019-01-30%20at%2019.27.05.png" width="200" height="400" />
+<img src="Screenshots/Screen%20Shot%202019-01-30%20at%2019.27.15.png" data-canonical-src="Screenshots/Screen%20Shot%202019-01-30%20at%2019.27.15.png" width="400" height="200" />
+<img src="Screenshots/Screen%20Shot%202019-01-30%20at%2019.26.56.png" data-canonical-src="Screenshots/Screen%20Shot%202019-01-30%20at%2019.26.56.png" width="200" height="400" />
+<img src="Screenshots/Screen%20Shot%202019-01-30%20at%2019.27.30.png" data-canonical-src="Screenshots/Screen%20Shot%202019-01-30%20at%2019.27.30.png" width="400" height="200" />
